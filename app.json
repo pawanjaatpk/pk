@@ -8,7 +8,7 @@
         "search",
         "bot"
     ],
-    "repository": "https://github.com/GreyMattersBot",
+    "repository": "https://github.com/pawanjaatpk/pk",
     "website": "https://telegram.dog/GreyMatter_Bots",
     "success_url": "https://t.me/GreyMatter_Bot",
     "env": {
@@ -55,7 +55,7 @@
     "formation": {
         "worker": {
             "quantity": 1,
-            "size": "free"
+            "size": "eco"
         }
     }
 }
